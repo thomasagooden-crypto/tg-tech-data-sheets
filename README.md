@@ -13,6 +13,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 | Family | Folder | Sheets |
 |---|---|---|
 | Hex nipples (standard, reducing, parallel, chrome) | `pdf/hex-nipples` | 40 |
+| Capillary connectors and tube bushes | `pdf/capillary` | 25 |
 | Hose tails and joiners | `pdf/hose-tails` | 38 |
 | Kinco nuts | `pdf/kinco-nuts` | 6 |
 | Extension pieces | `pdf/extension-pieces` | 6 |
@@ -27,5 +28,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 | Ferrule bends (all types) | `pdf/ferrule-bends` | 14 |
 
 Sheets are added here only once approved.
+
+Parts with status "No data sheet" in the build kit STATUS.csv have no sheet (e.g. capillary barrel unions). The website should not show a data sheet button for them.
 
 Sheets are generated from the build kit in the private `tg-tech-drawings` repo (`datasheet-build/`).
