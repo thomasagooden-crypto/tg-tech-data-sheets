@@ -13,6 +13,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 | Family | Folder | Sheets |
 |---|---|---|
 | Hex nipples (standard, reducing, parallel, chrome) | `pdf/hex-nipples` | 40 |
+| Hose tails and joiners | `pdf/hose-tails` | 38 |
 | Kinco nuts | `pdf/kinco-nuts` | 6 |
 | Extension pieces | `pdf/extension-pieces` | 6 |
 | All threads | `pdf/all-threads` | 23 |
