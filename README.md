@@ -12,7 +12,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 
 | Family | Folder | Sheets |
 |---|---|---|
-| Ferrule bends (male BSP) | `pdf/ferrule-bends` | 5 |
+| Ferrule bends (male BSP, capillary) | `pdf/ferrule-bends` | 7 |
 
 Sheets are added here only once approved.
 
