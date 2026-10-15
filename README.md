@@ -12,6 +12,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 
 | Family | Folder | Sheets |
 |---|---|---|
+| Hex nipples | `pdf/hex-nipples` | 12 |
 | Ferrule bends (all types) | `pdf/ferrule-bends` | 14 |
 
 Sheets are added here only once approved.
