@@ -13,7 +13,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 | Family | Folder | Sheets |
 |---|---|---|
 | Hex nipples (standard, reducing, parallel) | `pdf/hex-nipples` | 38 |
-| Elbows (F/F, M/F) | `pdf/elbows` | 21 |
+| Elbows (F/F, M/F) | `pdf/elbows` | 22 |
 | Adaptors (equal, reducing) | `pdf/adaptors` | 26 |
 | Reducing bushes | `pdf/bushes` | 31 |
 | Sockets (equal, reducing) | `pdf/sockets` | 20 |
