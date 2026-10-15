@@ -12,15 +12,17 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 
 | Family | Folder | Sheets |
 |---|---|---|
-| Hex nipples (standard, reducing, parallel) | `pdf/hex-nipples` | 38 |
+| Hex nipples (standard, reducing, parallel, chrome) | `pdf/hex-nipples` | 40 |
+| Kinco nuts | `pdf/kinco-nuts` | 6 |
+| Extension pieces | `pdf/extension-pieces` | 6 |
 | All threads | `pdf/all-threads` | 23 |
 | Back nuts (plain, flanged) | `pdf/back-nuts` | 15 |
 | Caps and plugs | `pdf/caps-plugs` | 25 |
-| Tees | `pdf/tees` | 11 |
-| Elbows (F/F, M/F) | `pdf/elbows` | 22 |
+| Tees (incl. chrome) | `pdf/tees` | 12 |
+| Elbows (F/F, M/F, chrome) | `pdf/elbows` | 24 |
 | Adaptors (equal, reducing) | `pdf/adaptors` | 26 |
 | Reducing bushes | `pdf/bushes` | 31 |
-| Sockets (equal, reducing) | `pdf/sockets` | 20 |
+| Sockets (equal, reducing, chrome) | `pdf/sockets` | 22 |
 | Ferrule bends (all types) | `pdf/ferrule-bends` | 14 |
 
 Sheets are added here only once approved.
