@@ -13,6 +13,8 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 | Family | Folder | Sheets |
 |---|---|---|
 | Hex nipples (standard, reducing, parallel) | `pdf/hex-nipples` | 38 |
+| All threads | `pdf/all-threads` | 23 |
+| Back nuts (plain, flanged) | `pdf/back-nuts` | 15 |
 | Caps and plugs | `pdf/caps-plugs` | 25 |
 | Tees | `pdf/tees` | 11 |
 | Elbows (F/F, M/F) | `pdf/elbows` | 22 |
