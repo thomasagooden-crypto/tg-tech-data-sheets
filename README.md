@@ -14,6 +14,8 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 |---|---|---|
 | Hex nipples (standard, reducing, parallel, chrome) | `pdf/hex-nipples` | 40 |
 | Capillary connectors, tube bushes, elbows | `pdf/capillary` | 30 |
+| Metal jumper valves | `pdf/jumper-valves` | 9 |
+| Meter flanges | `pdf/meter-flanges` | 3 |
 | Flare compression nuts 60° | `pdf/flare-compression` | 6 |
 | SAE 45° flare nuts and bodies | `pdf/sae-flare` | 16 |
 | Hose tails and joiners | `pdf/hose-tails` | 38 |
