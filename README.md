@@ -13,7 +13,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 | Family | Folder | Sheets |
 |---|---|---|
 | Hex nipples (standard, reducing, parallel, chrome) | `pdf/hex-nipples` | 40 |
-| Capillary connectors and tube bushes | `pdf/capillary` | 25 |
+| Capillary connectors, tube bushes, elbows | `pdf/capillary` | 30 |
 | Hose tails and joiners | `pdf/hose-tails` | 38 |
 | Kinco nuts | `pdf/kinco-nuts` | 6 |
 | Extension pieces | `pdf/extension-pieces` | 6 |
