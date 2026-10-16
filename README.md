@@ -14,6 +14,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 |---|---|---|
 | Hex nipples (standard, reducing, parallel, chrome) | `pdf/hex-nipples` | 40 |
 | Capillary connectors, tube bushes, elbows | `pdf/capillary` | 30 |
+| SAE 45° flare nuts and bodies | `pdf/sae-flare` | 16 |
 | Hose tails and joiners | `pdf/hose-tails` | 38 |
 | Kinco nuts | `pdf/kinco-nuts` | 6 |
 | Extension pieces | `pdf/extension-pieces` | 6 |
