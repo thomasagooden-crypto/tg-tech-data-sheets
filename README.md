@@ -39,3 +39,9 @@ Sheets are added here only once approved.
 Parts with status "No data sheet" in the build kit STATUS.csv have no sheet (e.g. capillary barrel unions). The website should not show a data sheet button for them.
 
 Sheets are generated from the build kit in the private `tg-tech-drawings` repo (`datasheet-build/`).
+
+## Complete vs incomplete sheets
+- `pdf/` holds **complete, approved** sheets only. `datasheet_index.csv` lists exactly these. The website may link to these.
+- `incomplete/` holds approved sheets whose sizing chart still has blank dimensions (listed in `incomplete_index.csv`).
+  **The website must never link to anything in `incomplete/`.** Claude moves a sheet from `incomplete/` to `pdf/` once its
+  measurements are filled, and it then appears in `datasheet_index.csv`.
