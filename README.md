@@ -32,6 +32,7 @@ e.g. `https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets
 | Sockets (equal, reducing, chrome) | `pdf/sockets` | 22 |
 | Ferrule bends (all types) | `pdf/ferrule-bends` | 14 |
 | TPFNR and standard ferrule cocks | `pdf/ferrule-cocks` | 19 |
+| Meter couplings | `pdf/meter-couplings` | 9 |
 
 Sheets are added here only once approved.
 
