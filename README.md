@@ -45,3 +45,7 @@ Sheets are generated from the build kit in the private `tg-tech-drawings` repo (
 - `incomplete/` holds approved sheets whose sizing chart still has blank dimensions (listed in `incomplete_index.csv`).
   **The website must never link to anything in `incomplete/`.** Claude moves a sheet from `incomplete/` to `pdf/` once its
   measurements are filled, and it then appears in `datasheet_index.csv`.
+
+## Measurements needed
+[Measurements_Needed.csv](Measurements_Needed.csv) lists every part still waiting on dimensions. Blank cell = measurement needed,
+`-` = not applicable, filled = already known. The `what_to_measure` column says how to take each one. All dimensions in mm to one decimal place.
