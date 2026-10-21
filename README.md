@@ -47,5 +47,5 @@ Sheets are generated from the build kit in the private `tg-tech-drawings` repo (
   measurements are filled, and it then appears in `datasheet_index.csv`.
 
 ## Measurements needed
-[Measurements_Needed.csv](Measurements_Needed.csv) lists every part still waiting on dimensions. Blank cell = measurement needed,
-`-` = not applicable, filled = already known. The `what_to_measure` column says how to take each one. All dimensions in mm to one decimal place.
+[Measurements_Needed.csv](Measurements_Needed.csv) has one line per measurement still needed: part number, which dimension,
+how to measure it, and an empty `value_mm` column to fill in (mm, one decimal place).
