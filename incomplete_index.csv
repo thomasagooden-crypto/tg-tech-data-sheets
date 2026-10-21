@@ -1,4 +1,25 @@
 part_no,family,missing_dims
+R1925-RLF,ball-valves,L1 H1 H2
+R1925LF,ball-valves,L1 H1 H2
+R1925ULLF,ball-valves,L1 H1 H2
+R1926LF,ball-valves,L1 H1 H2
+R1990-RLF,ball-valves,L1 H1 H2
+R1995LF,ball-valves,L1 H1 H2
+R9020-RLF,ball-valves,L1 H1
+R9025LF,ball-valves,L1 H1
+T1990LF,ball-valves,L1 H1 H2
+T1990ULLF,ball-valves,L1 H1 H2
+T1990URLF,ball-valves,L1 H1 H2
+T1991LF,ball-valves,L1 H1 H2
+T9020LF,ball-valves,L1 H1
+T9020ULLF,ball-valves,L1 H1
+T9020URLF,ball-valves,L1 H1
+T9021-RLF,ball-valves,L1 H1
+T9021LF,ball-valves,L1 H1
+T9021ULLF,ball-valves,L1 H1
+T9022-RLF,ball-valves,L1 H1 H2
+T9022LF,ball-valves,L1 H1 H2
+T9023SHLF,ball-valves,L1 H1 H2
 71180LF,ferrule-cocks,L1 H2 W
 71300LF,ferrule-cocks,L1 H2 W
 71313LF,ferrule-cocks,L1 H2 W TH2
@@ -27,25 +48,21 @@ RMC202LF,meter-couplings,L
 RMC206LF,meter-couplings,L
 RMC207LF,meter-couplings,L
 XX213LF,meter-couplings,L
+71051LF,stopcocks,H
+71053LF,stopcocks,H W
+71055LF,stopcocks,H
+71057LF,stopcocks,H
+71061LF,stopcocks,H
 71067LF,stopcocks,H
 71069LF,stopcocks,H W
 71071LF,stopcocks,H
 71073LF,stopcocks,H
+71074LF,stopcocks,H
 71075LF,stopcocks,H
+71076LF,stopcocks,H
 71077LF,stopcocks,H
 71079LF,stopcocks,L H
 71081LF,stopcocks,L H
-71051LF,stopcocks,H
-71053LF,stopcocks,H W
-71055LF,stopcocks,H
-71074LF,stopcocks,H
-71076LF,stopcocks,H
-71170LF,stopcocks,H
-71171LF,stopcocks,H W
-71173LF,stopcocks,L H W
-71174LF,stopcocks,H
-71057LF,stopcocks,H
-71061LF,stopcocks,H
 71091LF,stopcocks,H
 71093LF,stopcocks,H
 71095LF,stopcocks,H
@@ -53,3 +70,7 @@ XX213LF,meter-couplings,L
 71099LF,stopcocks,H
 71105LF,stopcocks,L2 H H1
 71107LF,stopcocks,L2 H H1
+71170LF,stopcocks,H
+71171LF,stopcocks,H W
+71173LF,stopcocks,L H W
+71174LF,stopcocks,H
