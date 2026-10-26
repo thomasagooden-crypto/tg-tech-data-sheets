@@ -220,9 +220,9 @@ XX216,Breeching Tee / Breeching Piece,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
 50095LF,Caps,"CAP 100mm (4"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/caps-plugs/50095LF.pdf,27.5,-,-,27.5,-,-,124.0,-,-,-,-,-,-,-,-,-,-,-,-,"G 4""",L = overall length. H = hex length. W = hex across flats. TH = female thread.
 50120,Chrome Screwed Brassware,"SWEPT ELBOW 15mm (1/2"") Male x Female Chrome Plated",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/elbows/50120.pdf,-,40.9,50.0,-,-,-,-,-,-,-,27.7,-,-,-,-,-,-,"G 1/2""","G 1/2""",-,L1 = female face to back of the male leg. L2 = male end to back of the female leg. D = body diameter. TH1 = male thread. TH2 = female thread.
 50122,Chrome Screwed Brassware,"ELBOW 20mm (3/4"") Male x Female Chrome Plated",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/elbows/50122.pdf,-,42.7,44.0,-,-,-,-,-,-,-,30.8,-,-,-,-,-,-,"G 3/4""","G 3/4""",-,L1 = female face to underside of the body. L2 = male end to back of the body. D = female socket diameter. TH1 = male thread. TH2 = female thread.
-50131LF,Chrome Screwed Brassware,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-50135LF,Chrome Screwed Brassware,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-50139LF,Chrome Screwed Brassware,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
+50131LF,Chrome Screwed Brassware,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+50135LF,Chrome Screwed Brassware,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+50139LF,Chrome Screwed Brassware,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
 50264,Chrome Screwed Brassware,"HEX NIPPLE 15mm (1/2"") BSP Chrome Plated",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/hex-nipples/50264.pdf,28.5,-,-,5.3,-,-,22.2,-,-,-,-,-,-,-,-,-,-,-,-,"G 1/2""",L = overall length. H = hex length. W = hex across flats. TH = thread size.
 50276,Chrome Screwed Brassware,"HEX NIPPLE 20mm (3/4"") BSP Chrome Plated",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/hex-nipples/50276.pdf,33.2,-,-,6.2,-,-,27.0,-,-,-,-,-,-,-,-,-,-,-,-,"G 3/4""",L = overall length. H = hex length. W = hex across flats. TH = thread size.
 50374LF,Chrome Screwed Brassware,"SOCKET 15mm (1/2"") BSP Female Chrome Plated Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/sockets/50374LF.pdf,25.2,-,-,-,-,-,25.8,-,-,-,-,-,-,-,-,-,-,-,-,"G 1/2""",L = overall length. W = hex across flats. TH = thread size (female both ends).
@@ -245,12 +245,12 @@ XX216,Breeching Tee / Breeching Piece,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
 55062LF,Copper Compression Fittings,"COMPRESSION ELBOW MALE 20mm (3/4"") Compression x Male 3/4"", copper olive, Lead Free","Built, waiting on measurements (incomplete/)",https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/incomplete/compression-fittings/55062LF.pdf,,-,-,55.0,-,-,30.6,-,-,-,-,-,-,-,-,-,-,"3/4"" copper tube","R 3/4""",-,"L = back of body to compression nut face, assembled. H = back of body to thread face. W1 = body hex across flats. W2 = compression nut across flats. TH1 = tube end. TH2 = threaded end."
 55064LF,Copper Compression Fittings,"COMPRESSION ELBOW MALE 15mm (1/2"") Compression x Male 3/4"", copper olive, Lead Free","Built, waiting on measurements (incomplete/)",https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/incomplete/compression-fittings/55064LF.pdf,,-,-,46.5,-,-,25.0,-,-,-,-,-,-,-,-,-,-,"1/2"" copper tube","R 3/4""",-,"L = back of body to compression nut face, assembled. H = back of body to thread face. W1 = body hex across flats. W2 = compression nut across flats. TH1 = tube end. TH2 = threaded end."
 55070LF,Copper Compression Fittings,"COMPRESSION TEE 15mm (1/2"") Compression all ends, copper olive, Lead Free","Built, waiting on measurements (incomplete/)",https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/incomplete/compression-fittings/55070LF.pdf,,-,-,,-,-,25.0,-,-,-,-,-,-,-,-,-,-,"1/2"" copper tube","1/2"" copper tube",-,"L = overall length across the run, assembled. H = bottom of run body to branch nut face, assembled. W2 = compression nut across flats. TH1 = run (tube). TH2 = branch (tube)."
-5505,Copper Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-5507,Copper Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-5508,Copper Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-5509,Copper Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-5509-40,Copper Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-5509-50,Copper Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
+5505,Copper Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+5507,Copper Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+5508,Copper Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+5509,Copper Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+5509-40,Copper Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+5509-50,Copper Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
 50097LF,"Elbows (F/F, M/F)","ELBOW 4mm (1/8"") Female x Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/elbows/50097LF.pdf,22.9,-,-,-,-,-,-,-,-,-,14.2,-,-,-,-,-,-,-,-,"G 1/8""",L = face to back of the opposite leg. D = body diameter. TH = thread size (female both ends).
 50098LF,"Elbows (F/F, M/F)","ELBOW 6mm (1/4"") Female x Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/elbows/50098LF.pdf,28.8,-,-,-,-,-,-,-,-,-,17.8,-,-,-,-,-,-,-,-,"G 1/4""",L = face to back of the opposite leg. D = body diameter. TH = thread size (female both ends).
 50099LF,"Elbows (F/F, M/F)","ELBOW 10mm (3/8"") Female x Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/elbows/50099LF.pdf,32.8,-,-,-,-,-,-,-,-,-,21.5,-,-,-,-,-,-,-,-,"G 3/8""",L = face to back of the opposite leg. D = body diameter. TH = thread size (female both ends).
@@ -315,14 +315,14 @@ FG00618LF,Ferrule Bends,"FERRULE BEND 50mm (2"") Flare Compression Lead Free",Co
 71166LF,Ferrule Bonnets / Top Sections,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
 71167LF,Ferrule Bonnets / Top Sections,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
 71168LF,Ferrule Bonnets / Top Sections,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71600,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71602,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71604,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71606,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71608,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71610,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71612,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71614,Fibre Washers,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
+71600,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71602,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71604,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71606,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71608,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71610,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71612,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71614,Fibre Washers,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
 52306,Fire Hydrant Flange,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
 56000LF,Flare Compression Fittings,"FLARE NUT 60° 6mm (1/4"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/flare-compression/56000LF.pdf,14.3,-,-,-,-,-,17.5,-,-,-,-,-,-,-,-,-,-,-,-,"G 1/4""",L = overall length. W = hex across flats. TH = female thread.
 56002LF,Flare Compression Fittings,"FLARE NUT 60° 10mm (3/8"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/flare-compression/56002LF.pdf,18.0,-,-,-,-,-,20.7,-,-,-,-,-,-,-,-,-,-,-,-,"G 3/8""",L = overall length. W = hex across flats. TH = female thread.
@@ -430,9 +430,9 @@ FG00618LF,Ferrule Bends,"FERRULE BEND 50mm (2"") Flare Compression Lead Free",Co
 71024LF,Hose Cocks / Washing Machine Cock,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
 71035,Hose Cocks / Washing Machine Cock,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
 50150LF,Kinco Nuts,"KINCO NUT 15mm (1/2"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/kinco-nuts/50150LF.pdf,13.7,-,-,-,-,-,25.0,-,-,-,-,-,-,-,-,-,-,-,-,"G 1/2""",L = overall length. W = hex across flats. TH = female thread.
-50152LF,Kinco Nuts,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
+50152LF,Kinco Nuts,"KINCO NUT 15mm (1/2"") BSP Female Chrome Plated Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/kinco-nuts/50152LF.pdf,13.7,-,-,-,-,-,25.0,-,-,-,-,-,-,-,-,-,-,-,-,"G 1/2""",L = overall length. W = hex across flats. TH = female thread.
 50154LF,Kinco Nuts,"KINCO NUT 20mm (3/4"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/kinco-nuts/50154LF.pdf,20.0,-,-,-,-,-,30.6,-,-,-,-,-,-,-,-,-,-,-,-,"G 3/4""",L = overall length. W = hex across flats. TH = female thread.
-50156LF,Kinco Nuts,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
+50156LF,Kinco Nuts,"KINCO NUT 20mm (3/4"") BSP Female Chrome Plated Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/kinco-nuts/50156LF.pdf,20.0,-,-,-,-,-,30.6,-,-,-,-,-,-,-,-,-,-,-,-,"G 3/4""",L = overall length. W = hex across flats. TH = female thread.
 50162LF,Kinco Nuts,"KINCO NUT 25mm (1"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/kinco-nuts/50162LF.pdf,21.5,-,-,-,-,-,38.5,-,-,-,-,-,-,-,-,-,-,-,-,"G 1""",L = overall length. W = hex across flats. TH = female thread.
 50164LF,Kinco Nuts,"KINCO NUT 32mm (1¼"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/kinco-nuts/50164LF.pdf,24.6,-,-,-,-,-,47.2,-,-,-,-,-,-,-,-,-,-,-,-,"G 1-1/4""",L = overall length. W = hex across flats. TH = female thread.
 50166LF,Kinco Nuts,"KINCO NUT 40mm (1½"") BSP Female Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/kinco-nuts/50166LF.pdf,25.0,-,-,-,-,-,53.8,-,-,-,-,-,-,-,-,-,-,-,-,"G 1-1/2""",L = overall length. W = hex across flats. TH = female thread.
@@ -493,10 +493,10 @@ R1N1541LF,Meter Flanges,"METER FLANGE 50mm (2"") BSP Female Lead Free",Complete 
 54070LF,Nylon Olive Compression Fittings,"COMPRESSION TEE 15mm (1/2"") Compression all ends, nylon olive, Lead Free","Built, waiting on measurements (incomplete/)",https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/incomplete/compression-fittings/54070LF.pdf,,-,-,,-,-,25.0,-,-,-,-,-,-,-,-,-,-,"1/2"" copper tube","1/2"" copper tube",-,"L = overall length across the run, assembled. H = bottom of run body to branch nut face, assembled. W2 = compression nut across flats. TH1 = run (tube). TH2 = branch (tube)."
 54072LF,Nylon Olive Compression Fittings,"COMPRESSION TEE FEMALE BRANCH 15mm (1/2"") Compression x Female 1/2"" branch, nylon olive, Lead Free","Built, waiting on measurements (incomplete/)",https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/incomplete/compression-fittings/54072LF.pdf,,-,-,43.2,-,-,25.0,-,-,-,-,-,-,-,-,-,-,"1/2"" copper tube","G 1/2""",-,"L = overall length across the run, assembled. H = bottom of run body to branch thread face. W1 = branch hex across flats. W2 = compression nut across flats. TH1 = run (tube). TH2 = branch."
 54076LF,Nylon Olive Compression Fittings,"COMPRESSION TEE FEMALE BRANCH 20mm (3/4"") Compression x Female 3/4"" branch, nylon olive, Lead Free","Built, waiting on measurements (incomplete/)",https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/incomplete/compression-fittings/54076LF.pdf,,-,-,46.3,-,-,30.6,-,-,-,-,-,-,-,-,-,-,"3/4"" copper tube","G 3/4""",-,"L = overall length across the run, assembled. H = bottom of run body to branch thread face. W1 = branch hex across flats. W2 = compression nut across flats. TH1 = run (tube). TH2 = branch."
-50158,Nylon Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-50159,Nylon Olives,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71400LF,PVC Jumper Valves,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
-71408LF,PVC Jumper Valves,,Not built yet,,,,,,,,,,,,,,,,,,,,,,
+50158,Nylon Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+50159,Nylon Olives,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71400LF,PVC Jumper Valves,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
+71408LF,PVC Jumper Valves,,No data sheet needed,,,,,,,,,,,,,,,,,,,,,,
 50330TLF,Plugs,"PLUG 4mm (1/8"") BSPT Male Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/caps-plugs/50330TLF.pdf,12.8,-,-,5.2,-,-,11.1,-,-,-,-,-,-,-,-,-,-,-,-,"R 1/8""",L = overall length. H = hex length. W = hex across flats. TH = male thread.
 50332TLF,Plugs,"PLUG 6mm (1/4"") BSPT Male Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/caps-plugs/50332TLF.pdf,19.2,-,-,6.0,-,-,14.0,-,-,-,-,-,-,-,-,-,-,-,-,"R 1/4""",L = overall length. H = hex length. W = hex across flats. TH = male thread.
 50334TLF,Plugs,"PLUG 10mm (3/8"") BSPT Male Lead Free",Complete (published),https://raw.githubusercontent.com/thomasagooden-crypto/tg-tech-data-sheets/main/pdf/caps-plugs/50334TLF.pdf,17.5,-,-,5.5,-,-,18.0,-,-,-,-,-,-,-,-,-,-,-,-,"R 3/8""",L = overall length. H = hex length. W = hex across flats. TH = male thread.
