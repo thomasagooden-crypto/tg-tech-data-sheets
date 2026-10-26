@@ -40,10 +40,18 @@ T9023SHLF,ball-valves,L1 H1 H2
 50520LF,barrel-unions,L
 50522LF,barrel-unions,L
 50524LF,barrel-unions,L
-52382LF,capillary,H
-52392LF,capillary,H
-52432LF,capillary,L
-52445LF,capillary,L
+52310LF,capillary,D
+52316LF,capillary,D
+52318LF,capillary,D
+52380LF,capillary,D
+52382LF,capillary,H D
+52390LF,capillary,D
+52392LF,capillary,H D
+52400,capillary,D
+52402,capillary,D
+52406LF,capillary,D
+52432LF,capillary,L D
+52445LF,capillary,L D
 54012LF,compression-fittings,L
 54020LF,compression-fittings,L
 54030LF,compression-fittings,L
