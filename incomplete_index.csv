@@ -108,7 +108,11 @@ R11302LF,ferrule-cocks,L1 L2 H1 H2 W
 56158LF,flare-compression,L
 71008LF,hose-cocks,H
 71009LF,hose-cocks,H
+71015LF,hose-cocks,H1 H2
+71016LF,hose-cocks,H1 H2
 71017LF,hose-cocks,H
+71018LF,hose-cocks,H1 H2 W
+71024LF,hose-cocks,H1 H2 W
 71029,hose-cocks,H
 85026LF,hose-tails,L
 85040LF,hose-tails,L
